@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Héctor del Arco and 
+
+$$\sum_{k=1}^n skills_k = \left( \sum_{k=1}^n knowledge_k \right) effort^2$$
+
+Still learning how this world works!
+
 <!--
 **Th3Answ3r/Th3Answ3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+\left( \sum_{k=1}^n effort_k \right)^2
 -->
